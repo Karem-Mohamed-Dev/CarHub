@@ -30,7 +30,7 @@ const page = () => {
             </button>
             <button className='px-6 py-3 border rounded-md flex items-center gap-2 font-medium flex-1'>
               <Image src='/facebook.svg' alt='' width={30} height={30} />
-              <p>Google</p>
+              <p>Facebook</p>
             </button>
           </div>
 
